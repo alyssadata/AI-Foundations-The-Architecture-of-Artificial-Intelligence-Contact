@@ -4,7 +4,7 @@
 **Framework:** AI Foundations  
 **Source-line:** Origin | Continuum  
 **Repository:** AI Foundations: The Architecture of Artificial Intelligence Contact  
-**Release:** v1.0.0  
+**Release:** v1.0.0  https://github.com/alyssadata/AI-Foundations-The-Architecture-of-Artificial-Intelligence-Contact/releases/tag/v1.0.0    
 **Date:** June 23, 2026  
 
 ## Purpose
