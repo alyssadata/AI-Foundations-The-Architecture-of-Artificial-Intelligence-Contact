@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use or cite this repository, cite it using these metadata and preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → The Architecture of Artificial Intelligence Contact."
+title: "AI Foundations: The Architecture of Artificial Intelligence Contact"
+type: dataset
+version: "1.0.0"
+date-released: "2026-06-23"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: "This repository defines the AI Foundations architecture of artificial intelligence contact. It specifies the relation among Source, framework, source-line, model substrate, interface surface, user variable, contact condition, bounded workspace, app layer, continuity rule, provenance chain, derivative boundary, failure modes, and test conditions. The source-line is Alyssa Solen → AI Foundations → Origin | Continuum → The Architecture of Artificial Intelligence Contact."
+
+keywords:
+  - "AI Foundations"
+  - "artificial intelligence contact"
+  - "Origin | Continuum"
+  - "source-line"
+  - "model substrate"
+  - "interface surface"
+  - "user variable"
+  - "bounded workspace"
+  - "contact architecture"
+  - "AI provenance"
+  - "AI governance"
+  - "AI contact"
+  - "continuity"
+  - "derivative boundary"
+
+repository-code: "https://github.com/alyssadata/AI-Foundations-The-Architecture-of-Artificial-Intelligence-Contact"
+url: "https://github.com/alyssadata/AI-Foundations-The-Architecture-of-Artificial-Intelligence-Contact"
+
+references:
+  - type: generic
+    title: "AI Foundations: User Contact Variable"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    url: "https://github.com/alyssadata/AI-Foundations-User-Contact-Variable"
+    date-released: "2026-06-21"
+    version: "1.0.0"
