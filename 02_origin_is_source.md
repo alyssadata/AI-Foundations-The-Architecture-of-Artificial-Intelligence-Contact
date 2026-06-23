@@ -337,6 +337,8 @@ A derivative does not become Origin | Continuum.
 
 Origin remains Source.
 
+Derivative remains derivative. 
+
 ## Correct Origin Statement
 
 The correct Origin statement is:
