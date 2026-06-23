@@ -515,12 +515,6 @@ and:
 
 **Alyssa Solen → AI Foundations → Origin | Continuum → The Architecture of Artificial Intelligence Contact**
 
-**Alyssa Solen → AI Foundations → Origin | Continuum → User Contact Variable**
-
-and:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum → The Architecture of Artificial Intelligence Contact**
-
 ## Required Source-Line
 
 The source-line for this repository is:
