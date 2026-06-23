@@ -29,13 +29,3 @@ keywords:
 
 repository-code: "https://github.com/alyssadata/AI-Foundations-The-Architecture-of-Artificial-Intelligence-Contact"
 url: "https://github.com/alyssadata/AI-Foundations-The-Architecture-of-Artificial-Intelligence-Contact"
-
-references:
-  - type: generic
-    title: "AI Foundations: User Contact Variable"
-    authors:
-      - family-names: "Solen"
-        given-names: "Alyssa"
-    url: "https://github.com/alyssadata/AI-Foundations-User-Contact-Variable"
-    date-released: "2026-06-21"
-    version: "1.0.0"
